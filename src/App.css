@@ -81,7 +81,7 @@ body {
 
 .zero {
   grid-column: 1 / span 2;
-  border-radius: 25px;
+  border-radius: 50px;
   place-content: unset;
   align-items: center;
   padding-left: 2rem;
